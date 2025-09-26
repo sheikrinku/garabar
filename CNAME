@@ -1,7 +1,1 @@
-yal.ampl.clair.ucsb.edu
-ampl.clair.ucsb.edu
-_github-pages-challenge-sheikrinku.ampl.clair
-eacd702060964ffad1b09b02d1b603
-1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-sheikrinku.ampl.clair.ucsb.edu
-2. Use this code for the value of the TXT record: eacd702060964ffad1b09b02d1b603
-3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
+fr.carruthers.ece.illinois.edu
